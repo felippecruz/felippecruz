@@ -1,4 +1,4 @@
-### <img src="" widht="" height="" alt=""> Olá meu nome é Felippe tenho 19 anos, sou natural de Guarulhos na grande São Paulo atualmente estou cursando Analise e Desenvolvimento de Sistemas no Centro Universitario-ENIAC, busco novas oportunidades de emprego relacionadas a minha area de estudo sou formado em:
+### Olá meu nome é Felippe tenho 19 anos, sou natural de Guarulhos na grande São Paulo atualmente estou cursando Analise e Desenvolvimento de Sistemas no Centro Universitario-ENIAC, busco novas oportunidades de emprego relacionadas a minha area de estudo sou formado em:
 
 Informática Básica pela GCM de Guarulhos,
 Operador de microcomputador pelo SENAI,
