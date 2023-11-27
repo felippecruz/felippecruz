@@ -4,7 +4,11 @@ Informática Básica pela GCM de Guarulhos,
 Operador de microcomputador pelo SENAI,
 Inteligência Artificial e Armazenamento em Nuvem - AI900 pelo SENAI,
 Design Gráfico pela Micropro.👋
-
+<div>
+  <a href="https://github.com/felippecruz">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&count_private=true">
+  </a>
+</div>
 <!--
 **felippecruz/felippecruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
