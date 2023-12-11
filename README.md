@@ -6,7 +6,7 @@ Inteligência Artificial e Armazenamento em Nuvem - AI900 pelo SENAI,
 Design Gráfico pela Micropro.👋
 <div>
   <a href="https://github.com/felippecruz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&count_private=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felippecruz&show_icons=true&theme=radical&count_private=true">
   </a>
 </div>
 <!--
